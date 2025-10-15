@@ -1,0 +1,52 @@
+CLUSTER DIVERSITY ANALYSIS REPORT
+Keyword: Mental
+Context: Health
+==================================================
+
+DISCOURSE FRAGMENTATION SUMMARY:
+-----------------------------------
+
+EPP:
+  Average Diversity Score: 4.9114
+  Average Clustering Quality: 0.2649
+  Terms Analyzed: 20
+
+NAT:
+  Average Diversity Score: 5.2767
+  Average Clustering Quality: 0.3344
+  Terms Analyzed: 1
+
+SOCPESPASD:
+  Average Diversity Score: 4.9466
+  Average Clustering Quality: 0.3038
+  Terms Analyzed: 11
+
+ALDERE:
+  Average Diversity Score: 2.7831
+  Average Clustering Quality: 0.2865
+  Terms Analyzed: 3
+
+IND:
+  Average Diversity Score: 4.8077
+  Average Clustering Quality: 0.3302
+  Terms Analyzed: 2
+
+ECR:
+  Average Diversity Score: 5.5839
+  Average Clustering Quality: 0.3670
+  Terms Analyzed: 2
+
+GUENGL:
+  Average Diversity Score: 4.5599
+  Average Clustering Quality: 0.2506
+  Terms Analyzed: 2
+
+GEFA:
+  Average Diversity Score: 4.4917
+  Average Clustering Quality: 0.3583
+  Terms Analyzed: 1
+
+KEY INSIGHTS:
+• Most Fragmented: ECR (diversity: 5.5839)
+• Most Coherent: ALDERE (diversity: 2.7831)
+• Best Clustering Quality: ECR (silhouette: 0.3670)

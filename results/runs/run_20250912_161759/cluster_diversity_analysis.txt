@@ -1,0 +1,51 @@
+CLUSTER DIVERSITY ANALYSIS REPORT
+Keyword: Immigration
+==================================================
+
+DISCOURSE FRAGMENTATION SUMMARY:
+-----------------------------------
+
+ALDERE:
+  Average Diversity Score: 1.7602
+  Average Clustering Quality: 0.3066
+  Terms Analyzed: 26
+
+IND:
+  Average Diversity Score: 0.7875
+  Average Clustering Quality: 0.3292
+  Terms Analyzed: 25
+
+GEFA:
+  Average Diversity Score: 1.3434
+  Average Clustering Quality: 0.3059
+  Terms Analyzed: 25
+
+NAT:
+  Average Diversity Score: 1.1438
+  Average Clustering Quality: 0.3467
+  Terms Analyzed: 26
+
+GUENGL:
+  Average Diversity Score: 1.2161
+  Average Clustering Quality: 0.3489
+  Terms Analyzed: 26
+
+EPP:
+  Average Diversity Score: 1.0212
+  Average Clustering Quality: 0.2726
+  Terms Analyzed: 26
+
+SOCPESPASD:
+  Average Diversity Score: 0.9623
+  Average Clustering Quality: 0.2905
+  Terms Analyzed: 26
+
+ECR:
+  Average Diversity Score: 0.9584
+  Average Clustering Quality: 0.3913
+  Terms Analyzed: 15
+
+KEY INSIGHTS:
+• Most Fragmented: ALDERE (diversity: 1.7602)
+• Most Coherent: IND (diversity: 0.7875)
+• Best Clustering Quality: ECR (silhouette: 0.3913)

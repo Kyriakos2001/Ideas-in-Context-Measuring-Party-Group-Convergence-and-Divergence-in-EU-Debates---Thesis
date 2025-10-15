@@ -1,0 +1,52 @@
+CLUSTER DIVERSITY ANALYSIS REPORT
+Keyword: Tax
+Context: Economy
+==================================================
+
+DISCOURSE FRAGMENTATION SUMMARY:
+-----------------------------------
+
+EPP:
+  Average Diversity Score: 2.5011
+  Average Clustering Quality: 0.1465
+  Terms Analyzed: 19
+
+SOCPESPASD:
+  Average Diversity Score: 2.4998
+  Average Clustering Quality: 0.1352
+  Terms Analyzed: 20
+
+GUENGL:
+  Average Diversity Score: 2.8633
+  Average Clustering Quality: 0.1562
+  Terms Analyzed: 18
+
+GEFA:
+  Average Diversity Score: 2.8486
+  Average Clustering Quality: 0.1860
+  Terms Analyzed: 11
+
+ALDERE:
+  Average Diversity Score: 3.0530
+  Average Clustering Quality: 0.1899
+  Terms Analyzed: 13
+
+NAT:
+  Average Diversity Score: 2.9317
+  Average Clustering Quality: 0.1841
+  Terms Analyzed: 17
+
+IND:
+  Average Diversity Score: 3.3196
+  Average Clustering Quality: 0.1888
+  Terms Analyzed: 11
+
+ECR:
+  Average Diversity Score: 2.4839
+  Average Clustering Quality: 0.1458
+  Terms Analyzed: 9
+
+KEY INSIGHTS:
+• Most Fragmented: IND (diversity: 3.3196)
+• Most Coherent: ECR (diversity: 2.4839)
+• Best Clustering Quality: ALDERE (silhouette: 0.1899)

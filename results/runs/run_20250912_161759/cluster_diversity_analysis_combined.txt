@@ -1,0 +1,52 @@
+CLUSTER DIVERSITY ANALYSIS REPORT
+Keyword: Budget
+Context: Combined
+==================================================
+
+DISCOURSE FRAGMENTATION SUMMARY:
+-----------------------------------
+
+NAT:
+  Average Diversity Score: 0.0000
+  Average Clustering Quality: nan
+  Terms Analyzed: 19
+
+GUENGL:
+  Average Diversity Score: 0.2611
+  Average Clustering Quality: 0.4296
+  Terms Analyzed: 19
+
+GEFA:
+  Average Diversity Score: 0.0000
+  Average Clustering Quality: nan
+  Terms Analyzed: 15
+
+ALDERE:
+  Average Diversity Score: 0.1512
+  Average Clustering Quality: 0.4169
+  Terms Analyzed: 19
+
+SOCPESPASD:
+  Average Diversity Score: 0.0000
+  Average Clustering Quality: nan
+  Terms Analyzed: 19
+
+EPP:
+  Average Diversity Score: 0.0000
+  Average Clustering Quality: nan
+  Terms Analyzed: 19
+
+IND:
+  Average Diversity Score: 0.4346
+  Average Clustering Quality: 0.2773
+  Terms Analyzed: 12
+
+ECR:
+  Average Diversity Score: 0.0000
+  Average Clustering Quality: nan
+  Terms Analyzed: 8
+
+KEY INSIGHTS:
+• Most Fragmented: IND (diversity: 0.4346)
+• Most Coherent: NAT (diversity: 0.0000)
+• Best Clustering Quality: GUENGL (silhouette: 0.4296)

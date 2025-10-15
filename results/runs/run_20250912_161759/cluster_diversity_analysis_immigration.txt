@@ -1,0 +1,52 @@
+CLUSTER DIVERSITY ANALYSIS REPORT
+Keyword: Tax
+Context: Immigration
+==================================================
+
+DISCOURSE FRAGMENTATION SUMMARY:
+-----------------------------------
+
+GUENGL:
+  Average Diversity Score: 2.8953
+  Average Clustering Quality: 0.1352
+  Terms Analyzed: 8
+
+EPP:
+  Average Diversity Score: 2.8930
+  Average Clustering Quality: 0.1393
+  Terms Analyzed: 17
+
+SOCPESPASD:
+  Average Diversity Score: 3.1018
+  Average Clustering Quality: 0.1444
+  Terms Analyzed: 15
+
+NAT:
+  Average Diversity Score: 2.5946
+  Average Clustering Quality: 0.1257
+  Terms Analyzed: 7
+
+GEFA:
+  Average Diversity Score: 3.4180
+  Average Clustering Quality: 0.1874
+  Terms Analyzed: 7
+
+IND:
+  Average Diversity Score: 3.3806
+  Average Clustering Quality: 0.2016
+  Terms Analyzed: 4
+
+ALDERE:
+  Average Diversity Score: 3.2454
+  Average Clustering Quality: 0.2127
+  Terms Analyzed: 4
+
+ECR:
+  Average Diversity Score: 4.2456
+  Average Clustering Quality: 0.2478
+  Terms Analyzed: 4
+
+KEY INSIGHTS:
+• Most Fragmented: ECR (diversity: 4.2456)
+• Most Coherent: NAT (diversity: 2.5946)
+• Best Clustering Quality: ECR (silhouette: 0.2478)

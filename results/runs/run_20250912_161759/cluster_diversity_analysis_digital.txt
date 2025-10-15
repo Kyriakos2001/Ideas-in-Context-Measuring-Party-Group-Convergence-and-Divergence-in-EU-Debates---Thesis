@@ -1,0 +1,27 @@
+CLUSTER DIVERSITY ANALYSIS REPORT
+Keyword: Ai
+Context: Digital
+==================================================
+
+DISCOURSE FRAGMENTATION SUMMARY:
+-----------------------------------
+
+EPP:
+  Average Diversity Score: 4.2941
+  Average Clustering Quality: 0.3006
+  Terms Analyzed: 5
+
+ALDERE:
+  Average Diversity Score: 3.9449
+  Average Clustering Quality: 0.2949
+  Terms Analyzed: 2
+
+SOCPESPASD:
+  Average Diversity Score: 3.8725
+  Average Clustering Quality: 0.2413
+  Terms Analyzed: 2
+
+KEY INSIGHTS:
+• Most Fragmented: EPP (diversity: 4.2941)
+• Most Coherent: SOCPESPASD (diversity: 3.8725)
+• Best Clustering Quality: EPP (silhouette: 0.3006)
